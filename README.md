@@ -1,5 +1,5 @@
 # How to use:
-- Change the variables "" and "" to your desire in the code
+- Change the variables "castbarLocation" and "interuptableCastbarColor" to your desire in the code
 - Compile
 - Have fun
 
